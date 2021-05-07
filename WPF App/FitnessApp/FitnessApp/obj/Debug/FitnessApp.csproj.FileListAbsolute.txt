@@ -1,0 +1,15 @@
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe.config
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\bin\Debug\FitnessApp.pdb
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csprojAssemblyReference.cache
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\MainWindow.g.cs
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\App.g.cs
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\FitnessApp_MarkupCompile.cache
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\FitnessApp_MarkupCompile.lref
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\MainWindow.baml
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\FitnessApp.g.resources
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Properties.Resources.resources
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.GenerateResource.cache
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\FitnessApp.exe
+C:\Users\akost\Source\Repos\Fitness_WPF\WPF App\FitnessApp\FitnessApp\obj\Debug\FitnessApp.pdb
